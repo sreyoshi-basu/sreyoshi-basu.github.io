@@ -4,7 +4,7 @@ collection: publications
 category: theses
 permalink: /publication/2021-04-01-dance-thesis
 date: 2021-04-01
-venue: "M.A. Thesis, Madras Christian College (University of Madras)"
+venue: ""
 paperurl: "/files/basu-ma-thesis-dance.pdf"
 ---
 M.A. in English Language and Literature, supervised by Prof. S. Franklin Daniel.
