@@ -13,7 +13,7 @@ I am interested in how linguistic structure is represented and processed: what g
 
 **Speech perception and processing.** I currently work with Prof. Chigusa Kurumada and Prof. Xin Xie . We study how listeners adapt to variation in speech, such as unfamiliar accents, and I am helping build a database of accented English speech for this research.
 
-**Phonology and phonetics.** My M.A. thesis in Linguistics at Rochester described how Setswana resolves vowel hiatus across morpheme, syllable and word boundaries. I have also worked on schwa deletion in Jakarta Indonesian, pitch control in intoxicated speech, and archiving Dene language materials.
+**Phonology and phonetics.** Vowel hiatus resolution across morpheme, syllable and word boundaries; schwa deletion in Jakarta Indonesian; pitch control in intoxicated speech; and archiving Dene language materials.
 
 
 ## Education
