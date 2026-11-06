@@ -15,3 +15,9 @@ I am interested in how linguistic structure is represented and processed: what g
 
 **Phonology and phonetics.** My M.A. thesis in Linguistics at Rochester described how Setswana resolves vowel hiatus across morpheme, syllable and word boundaries. I have also worked on schwa deletion in Jakarta Indonesian, pitch control in intoxicated speech, and archiving Dene language materials.
 
+
+## Education
+- **M.A. in Linguistics**, University of Rochester, 2024
+- **M.A. in English Language and Literature**, Madras Christian College, University of Madras, 2021
+- **B.A. in English Language and Literature**, Madras Christian College, University of Madras, 2019
+
