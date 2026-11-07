@@ -16,7 +16,7 @@ author_profile: true
   @media (max-width: 500px) { .gallery { column-count: 1; } }
 </style>
 
-<p>I have loved making artfor as long as I can remember. I work mostly in watercolours, acrylics and ink, and I'm drawn to nature, everyday scenes, and the places I've lived in and travelled to. Here are some of my favourite pieces.</p>
+<p>I have loved making art for as long as I can remember. I work mostly in watercolours, acrylics and ink, and I'm drawn to nature, everyday scenes, and the places I've lived in and travelled to. Here are some of my recent pieces.</p>
 
 <div class="gallery">
 {% for file in site.static_files %}
