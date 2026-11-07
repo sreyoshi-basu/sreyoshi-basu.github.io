@@ -47,7 +47,7 @@ I am interested in how linguistic structure is represented and processed, combin
 
 **Phonology and phonetics.** Vowel hiatus resolution in Setswana, schwa deletion in Jakarta Indonesian, and pitch control in intoxicated speech.
 
-**Currently**, I'm working on subject–object asymmetries in long-distance scrambling in Bangla, and on a case study of fricative voicing in accented speech using the <a href="https://osf.io/q32m6/overview" target="_blank">ADAPT corpus</a> <span class="tag">coming soon!</span>.
+**Currently**, I'm working on subject–object asymmetries in long-distance scrambling in Bangla, and on a case study of fricative voicing in accented speech using <a href="https://osf.io/q32m6/overview" target="_blank">ADAPT </a> <span class="tag">coming soon!</span>, a database of accented speech production that I co-developed.
 
 ## News
 
