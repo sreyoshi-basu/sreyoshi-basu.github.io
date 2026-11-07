@@ -18,7 +18,7 @@ main:
     url: /courses/
 
   - title: "CV"
-    url: /files/basu-cv.pdf
+    url: /cv/
 
   - title: "Art"
     url: /art/
