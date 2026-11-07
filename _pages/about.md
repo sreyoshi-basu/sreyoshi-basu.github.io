@@ -49,6 +49,8 @@ I am interested in how linguistic structure is represented and processed, combin
 
 **Currently**, I'm working on subject–object asymmetries in long-distance scrambling in Bangla, and on a case study of fricative voicing in accented speech using <a href="https://osf.io/q32m6/overview" target="_blank">ADAPT </a> <span class="tag">coming soon!</span>, a database of accented speech production that I co-developed.
 
+<p style="margin-top: 1.5em;">Outside research, I paint, read translated fiction, bake, and practise Indian classical dance. Take a look at my work on the <a href="/art/">Art</a> page!</p>
+
 ## News
 
 <div class="news-card">
@@ -63,8 +65,6 @@ I am interested in how linguistic structure is represented and processed, combin
   <div class="tl-item"><div class="tl-date">Mar 2024</div><div class="tl-text">Presented Setswana vowel hiatus work at <a href="https://sites.google.com/cornell.edu/phuny2024/home" target="_blank">PHUNY 2024</a>, Cornell University</div></div>
 </div>
 </div>
-
-<p style="margin-top: 1.5em;">Outside research, I paint, read translated fiction, bake, and practise Indian classical dance. Take a look at my work on the <a href="/art/">Art</a> page!</p>
 
 </div>
 
