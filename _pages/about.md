@@ -17,11 +17,15 @@ I am interested in how linguistic structure is represented and processed, combin
 
 ## News
 
-- **Nov 2026** — Paper accepted for presentation at CAMP (Nov 2026).
-- **Nov 2026** — Paper accepted for presentation at IWoLP (Jan 2027).
-- **Nov 2026** — Applying to Ph.D. programs in linguistics for Fall 2027.
-- **2025** — *Scrambling in Bengali* published in Proceedings of FASAL-14.
-- **2024** — Joined Brain and Cognitive Sciences, University of Rochester, as a Research Technician.
-- **May 2024** — Graduated with an M.A. in Linguistics, University of Rochester.
-- **Apr 2024** — Presented at FASAL-14, Stony Brook University.
-- **Mar 2024** — Presented my M.A. work on Setswana vowel hiatus at PHUNY 2024.
+<div style="max-height: 220px; overflow-y: auto; padding-right: 0.5em; border-left: 3px solid rgba(128,128,128,0.4); padding-left: 1em;">
+<ul style="list-style: none; margin: 0; padding: 0;">
+  <li><b>Nov 2026</b> — Paper accepted for presentation at IWoLP (Jan 2027).</li>
+  <li><b>Oct 2026</b> — Paper accepted for presentation at CAMP (Nov 2026).</li>
+  <li><b>Nov 2026</b> — Applying to Ph.D. programs in linguistics for Fall 2027.</li>
+  <li><b>Apr 2025</b> — <i>Scrambling in Bengali</i> published in Proceedings of FASAL-14.</li>
+  <li><b>May 2024</b> — Joined Brain and Cognitive Sciences, University of Rochester, as a Research Technician.</li>
+  <li><b>May 2024</b> — Graduated with an M.A. in Linguistics, University of Rochester.</li>
+  <li><b>Apr 2024</b> — Presented at FASAL-14, Stony Brook University.</li>
+  <li><b>Mar 2024</b> — Presented my M.A. work on Setswana vowel hiatus at PHUNY 2024.</li>
+</ul>
+</div>
