@@ -8,9 +8,13 @@ redirect_from:
 ---
 
 <style>
+  @media (min-width: 1024px) {
+    #main { max-width: 1500px; }
+    .page { width: 84% !important; padding-right: 0 !important; margin-right: 0 !important; }
+  }
   .about-wrap { display: flex; gap: 2.5em; align-items: flex-start; }
-  .about-main { flex: 3; min-width: 0; text-align: justify; hyphens: auto; }
-  .about-side { flex: 1.2; font-size: 0.85em; border-left: 3px solid rgba(128,128,128,0.4); padding-left: 1.2em; }
+  .about-main { flex: 3.2; min-width: 0; text-align: justify; hyphens: auto; }
+  .about-side { flex: 1.4; min-width: 230px; font-size: 0.85em; border-left: 3px solid rgba(128,128,128,0.4); padding-left: 1.2em; }
   .about-side h3 { margin-top: 0; }
   .about-side p { margin: 0 0 1em 0; line-height: 1.4; }
   .news-card { position: relative; border-radius: 10px; background: rgba(128,128,128,0.08); padding: 1em 1em 0 1em; }
