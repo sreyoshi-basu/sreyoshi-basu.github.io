@@ -19,8 +19,8 @@ I am interested in how linguistic structure is represented and processed, combin
 
 <div style="max-height: 220px; overflow-y: auto; padding-right: 0.5em; border-left: 3px solid rgba(128,128,128,0.4); padding-left: 1em;">
 <ul style="list-style: none; margin: 0; padding: 0;">
-  <li><b>Nov 2026</b> — Paper accepted for presentation at IWoLP (Jan 2027).</li>
-  <li><b>Oct 2026</b> — Paper accepted for presentation at CAMP (Nov 2026).</li>
+  <li><b>Nov 2026</b> — Paper accepted for poster at IWoLP, Hongkong (Jan 2027).</li>
+  <li><b>Oct 2026</b> — Paper accepted for presentation at CAMP, California, US (Nov 2026).</li>
   <li><b>Nov 2026</b> — Applying to Ph.D. programs in linguistics for Fall 2027.</li>
   <li><b>Apr 2025</b> — <i>Scrambling in Bengali</i> published in Proceedings of FASAL-14.</li>
   <li><b>May 2024</b> — Joined Brain and Cognitive Sciences, University of Rochester, as a Research Technician.</li>
