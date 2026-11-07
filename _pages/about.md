@@ -34,4 +34,34 @@ redirect_from:
 
 I am interested in how linguistic structure is represented and processed, combining theoretical and experimental methods.
 
-**Syntax.** Scrambling and word-order flexibility in
+**Syntax.** Scrambling and word-order flexibility in Bangla, including the A-/A'-movement distinction and extraction from embedded clauses.
+
+**Speech perception.** How listeners adapt to variation in speech, such as unfamiliar accents (with <a href="https://www.sas.rochester.edu/bcs/people/faculty/kurumada_chigusa/" target="_blank">Prof. Chigusa Kurumada</a> and <a href="https://sites.uci.edu/sclab/" target="_blank">Prof. Xin Xie</a>).
+
+**Phonology and phonetics.** Vowel hiatus resolution in Setswana, schwa deletion in Jakarta Indonesian, and pitch control in intoxicated speech.
+
+## News
+
+<div class="news-card">
+<div class="tl">
+  <div class="tl-item"><div class="tl-date">Nov 2026</div><div class="tl-text">Poster accepted at <a href="https://lt.cityu.edu.hk/iwolp2027/" target="_blank">IWoLP 2027</a>, Hong Kong</div></div>
+  <div class="tl-item"><div class="tl-date">Nov 2026</div><div class="tl-text">Applying to linguistics Ph.D. programs for Fall 2027</div></div>
+  <div class="tl-item"><div class="tl-date">Oct 2026</div><div class="tl-text">Talk accepted at <a href="https://camp9ucsb.github.io/conference/" target="_blank">CAMP 9</a>, UC Santa Barbara</div></div>
+  <div class="tl-item"><div class="tl-date">Apr 2025</div><div class="tl-text"><a href="https://ojs.ub.uni-konstanz.de/jsal/index.php/fasal/en/article/view/331" target="_blank"><i>Scrambling in Bengali</i></a> published in FASAL-14 Proceedings</div></div>
+  <div class="tl-item"><div class="tl-date">May 2024</div><div class="tl-text">Joined Rochester BCS as a Research Technician</div></div>
+  <div class="tl-item"><div class="tl-date">May 2024</div><div class="tl-text">M.A. in Linguistics, University of Rochester</div></div>
+  <div class="tl-item"><div class="tl-date">Apr 2024</div><div class="tl-text">Presented at <a href="https://sites.google.com/stonybrook.edu/fasal14/home" target="_blank">FASAL-14</a>, Stony Brook</div></div>
+  <div class="tl-item"><div class="tl-date">Mar 2024</div><div class="tl-text">Presented Setswana vowel hiatus work at <a href="https://sites.google.com/cornell.edu/phuny2024/home" target="_blank">PHUNY 2024</a>, Cornell</div></div>
+</div>
+</div>
+
+</div>
+
+<div class="about-side">
+  <h3>Education</h3>
+  <p><b>M.A., Linguistics</b><br>University of Rochester<br>2024</p>
+  <p><b>M.A., English Language and Literature</b><br>Madras Christian College, University of Madras<br>2021</p>
+  <p><b>B.A., English Language and Literature</b><br>Madras Christian College, University of Madras<br>2019</p>
+</div>
+
+</div>
