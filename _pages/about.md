@@ -36,7 +36,7 @@ I am interested in how linguistic structure is represented and processed, combin
 
 **Syntax.** Scrambling and word-order flexibility in Bangla, including the A-/A'-movement distinction and extraction from embedded clauses.
 
-**Speech perception.** How listeners adapt to variation in speech, such as unfamiliar accents (with <a href="https://www.sas.rochester.edu/bcs/people/faculty/kurumada_chigusa/" target="_blank">Prof. Chigusa Kurumada</a> and <a href="https://sites.uci.edu/sclab/" target="_blank">Prof. Xin Xie</a>).
+**Speech perception.** How listeners adapt to variation in speech, such as unfamiliar accents (with <a href="https://www.sas.rochester.edu/bcs/people/faculty/kurumada_chigusa/" target="_blank">Prof. Chigusa Kurumada</a> and <a href="https://scholar.google.com/citations?user=hKP-8Y8AAAAJ&hl=en" target="_blank">Prof. Xin Xie</a>).
 
 **Phonology and phonetics.** Vowel hiatus resolution in Setswana, schwa deletion in Jakarta Indonesian, and pitch control in intoxicated speech.
 
