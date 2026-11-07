@@ -59,9 +59,9 @@ I am interested in how linguistic structure is represented and processed, combin
 
 <div class="about-side">
   <h3>Education</h3>
-  <p><b>M.A., Linguistics</b><br>University of Rochester<br>2024</p>
-  <p><b>M.A., English Language and Literature</b><br>Madras Christian College, University of Madras<br>2021</p>
-  <p><b>B.A., English Language and Literature</b><br>Madras Christian College, University of Madras<br>2019</p>
+  <p><b>M.A., Linguistics</b><br>University of Rochester, NY, USA<br>2024</p>
+  <p><b>M.A., English Language and Literature</b><br>Madras Christian College, Chennai, India<br>2021</p>
+  <p><b>B.A., English Language and Literature</b><br>Madras Christian College, Chennai, India<br>2019</p>
 </div>
 
 </div>
