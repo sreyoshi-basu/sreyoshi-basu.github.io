@@ -14,6 +14,8 @@ redirect_from:
   }
   .about-wrap { display: flex; gap: 2.5em; align-items: flex-start; }
   .about-main { flex: 3.2; min-width: 0; text-align: justify; hyphens: auto; }
+  .about-main ul { margin: 0.5em 0 1em 1.2em; }
+  .about-main li { margin-bottom: 0.4em; }
   .about-side { flex: 1.4; min-width: 230px; border-left: 3px solid rgba(128,128,128,0.4); padding-left: 1.2em; }
   .about-side h3 { margin-top: 0; font-size: 1em; }
   .about-side p { margin: 0 0 1em 0; line-height: 1.4; }
@@ -41,13 +43,11 @@ redirect_from:
 
 I am interested in how linguistic structure is represented and processed, combining theoretical and experimental methods. My research focus includes:
 
-**Syntax.** Scrambling and word-order flexibility in Bangla, including the A-/A'-movement distinction and extraction from embedded clauses.
+- **Syntax.** Scrambling and word-order flexibility in Bangla, including the A-/A'-movement distinction and extraction from embedded clauses.
+- **Speech perception.** How listeners adapt to variation in speech, such as unfamiliar accents (with <a href="https://www.sas.rochester.edu/bcs/people/faculty/kurumada_chigusa/" target="_blank">Prof. Chigusa Kurumada</a> and <a href="https://scholar.google.com/citations?user=hKP-8Y8AAAAJ&hl=en" target="_blank">Prof. Xin Xie</a>).
+- **Phonology and phonetics.** Vowel hiatus resolution in Setswana, schwa deletion in Jakarta Indonesian, and pitch control in intoxicated speech.
 
-**Speech perception.** How listeners adapt to variation in speech, such as unfamiliar accents (with <a href="https://www.sas.rochester.edu/bcs/people/faculty/kurumada_chigusa/" target="_blank">Prof. Chigusa Kurumada</a> and <a href="https://scholar.google.com/citations?user=hKP-8Y8AAAAJ&hl=en" target="_blank">Prof. Xin Xie</a>).
-
-**Phonology and phonetics.** Vowel hiatus resolution in Setswana, schwa deletion in Jakarta Indonesian, and pitch control in intoxicated speech.
-
-**Currently**, I'm working on subject–object asymmetries in long-distance scrambling in Bangla, and on a case study of fricative voicing in accented speech using <a href="https://osf.io/q32m6/overview" target="_blank">ADAPT </a> <span class="tag">coming soon!</span>, a database of accented speech production that I co-developed.
+**Currently**, I'm working on subject–object asymmetries in long-distance scrambling in Bangla, and on a case study of fricative voicing in accented speech using <a href="https://osf.io/q32m6/overview" target="_blank">ADAPT</a> <span class="tag">coming soon!</span>, a database of accented speech production that I co-developed.
 
 ## News
 
