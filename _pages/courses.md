@@ -5,59 +5,45 @@ author_profile: true
 ---
 
 <style>
-  .courses { font-size: 0.88em; }
-  .courses h3 { font-size: 1em; margin: 1.4em 0 0.1em; }
-  .courses .sch { font-size: 0.85em; opacity: 0.65; margin-bottom: 0.5em; }
-  .courses ul { columns: 2; column-gap: 2.5em; margin: 0; padding-left: 1.1em; }
-  .courses li { margin-bottom: 0.2em; break-inside: avoid; }
-  @media (max-width: 700px) { .courses ul { columns: 1; } }
+  .courses { font-size: 0.85em; }
+  .courses h3 { font-size: 1.05em; margin: 1.3em 0 0.4em; }
+  .courses ul { margin: 0 0 0 1.2em; padding: 0; }
+  .courses li { margin: 0 0 0.15em 0; line-height: 1.35; }
 </style>
 
-<div class="courses">
+<div class="courses" markdown="1">
 
-<h3>M.A. Linguistics</h3>
-<div class="sch">University of Rochester</div>
-<ul>
-  <li>Introduction to Grammatical Systems</li>
-  <li>Syntactic Theory</li>
-  <li>Morphology</li>
-  <li>Introduction to Historical Linguistics</li>
-  <li>Introduction to Language Sound Systems</li>
-  <li>Introduction to Field Methods</li>
-  <li>Field Methods I</li>
-  <li>Data Science for Linguistics</li>
-  <li>Master's Dissertation</li>
-</ul>
+### M.A. Linguistics, University of Rochester
+- Introduction to Grammatical Systems
+- Syntactic Theory
+- Morphology
+- Introduction to Historical Linguistics
+- Introduction to Language Sound Systems
+- Preserving Diversity in Language and Culture (Introduction to Field Methods)
+- Field Methods I
+- Data Science for Linguistics
+- Master's Dissertation (Vowel Hiatus Resolution in Setswana)
 
-<h3>M.A. English Language and Literature</h3>
-<div class="sch">Madras Christian College, University of Madras</div>
-<ul>
-  <li>The English Language</li>
-  <li>Translation Studies</li>
-  <li>English Language Teaching</li>
-  <li>Critical Theory since 1965</li>
-  <li>Literary Criticism</li>
-</ul>
+### M.A. English Language and Literature, Madras Christian College
+- The English Language (Introduction to English Language Linguistics)
+- Translation Studies
+- English Language Teaching
+- Critical Theory since 1965
+- Literary Criticism
 
-<h3>B.A. English Language and Literature</h3>
-<div class="sch">Madras Christian College, University of Madras</div>
-<ul>
-  <li>Grammar and Linguistics</li>
-  <li>Prosody and Rhetoric</li>
-  <li>Postmodern Survey</li>
-  <li>German I–IV</li>
-  <li>Basic Tamil I and II</li>
-</ul>
+### B.A. English Language and Literature, Madras Christian College
+- Grammar and Linguistics
+- Prosody and Rhetoric
+- Postmodern Survey
+- German I–IV
+- Basic Tamil I and II
 
-<h3>Online Courses</h3>
-<div class="sch">Coursera</div>
-<ul>
-  <li>Data Analysis with R Programming (Google)</li>
-  <li>The Bilingual Brain (University of Houston)</li>
-  <li>Big Data and Language 1 (KAIST)</li>
-  <li>First Step Korean (Yonsei University)</li>
-  <li>Programming for Everybody: Python (University of Michigan)</li>
-  <li>An Introduction to Linguistics (Universiteit Leiden)</li>
-</ul>
+### Online Courses (Coursera)
+- Data Analysis with R Programming, Google (2024)
+- The Bilingual Brain, University of Houston (2024)
+- Big Data and Language 1, KAIST (2022)
+- First Step Korean, Yonsei University (2021)
+- Programming for Everybody (Getting Started with Python) 1 & 2, University of Michigan (2020)
+- An Introduction to Linguistics, Universiteit Leiden (2020)
 
 </div>
