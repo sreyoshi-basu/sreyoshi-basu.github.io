@@ -4,6 +4,6 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-<iframe src="/files/basu-cv.pdf" width="100%" height="1000px" style="border: none;"></iframe>
+<a href="/files/basu-cv.pdf" class="btn btn--primary" target="_blank">Download CV (PDF)</a>
 
-[Download CV (PDF)](/files/basu-cv.pdf)
+<iframe src="/files/basu-cv.pdf" width="100%" height="1000px" style="border: none; margin-top: 1em;"></iframe>
