@@ -47,7 +47,7 @@ I am interested in how linguistic structure is represented and processed, combin
 - **Speech perception.** How listeners adapt to variation in speech, such as unfamiliar accents (with <a href="https://www.sas.rochester.edu/bcs/people/faculty/kurumada_chigusa/" target="_blank">Prof. Chigusa Kurumada</a> and <a href="https://scholar.google.com/citations?user=hKP-8Y8AAAAJ&hl=en" target="_blank">Prof. Xin Xie</a>).
 - **Phonology and phonetics.** Vowel hiatus resolution in Setswana, schwa deletion in Jakarta Indonesian, and pitch control in intoxicated speech.
 
-**Currently**, I'm working on subject–object asymmetries in long-distance scrambling in Bangla, and on a case study of fricative voicing in accented speech using <a href="https://osf.io/q32m6/overview" target="_blank">ADAPT</a> <span class="tag">coming soon!</span>, a database of accented speech production that I co-developed.
+**Currently**, I'm working on subject–object asymmetries in long-distance scrambling in Bangla, and on a case study of fricative voicing in Mandarin-accented English using <a href="https://osf.io/q32m6/overview" target="_blank">ADAPT</a> <span class="tag">coming soon!</span>, a database of accented speech production that I co-developed.
 
 ## News
 
