@@ -5,70 +5,59 @@ author_profile: true
 ---
 
 <style>
-  .course-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1em; }
-  .course-card { border-radius: 10px; background: rgba(128,128,128,0.07); padding: 1em 1.1em; }
-  .course-card.wide { grid-column: span 2; }
-  .course-deg { font-weight: 700; font-size: 0.95em; }
-  .course-sch { font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.06em; color: #52adc8; margin: 0.15em 0 0.7em; }
-  .chips { display: flex; flex-wrap: wrap; gap: 0.35em; }
-  .chip { font-size: 0.75em; padding: 0.2em 0.65em; border-radius: 999px; border: 1px solid rgba(128,128,128,0.35); line-height: 1.4; }
-  .chip.hl { border-color: #52adc8; color: #52adc8; font-weight: 600; }
-  @media (max-width: 800px) { .course-grid { grid-template-columns: 1fr; } .course-card.wide { grid-column: span 1; } }
+  .courses { font-size: 0.88em; }
+  .courses h3 { font-size: 1em; margin: 1.4em 0 0.1em; }
+  .courses .sch { font-size: 0.85em; opacity: 0.65; margin-bottom: 0.5em; }
+  .courses ul { columns: 2; column-gap: 2.5em; margin: 0; padding-left: 1.1em; }
+  .courses li { margin-bottom: 0.2em; break-inside: avoid; }
+  @media (max-width: 700px) { .courses ul { columns: 1; } }
 </style>
 
-<div class="course-grid">
+<div class="courses">
 
-  <div class="course-card wide">
-    <div class="course-deg">M.A. Linguistics</div>
-    <div class="course-sch">University of Rochester</div>
-    <div class="chips">
-      <span class="chip">Introduction to Grammatical Systems</span>
-      <span class="chip">Syntactic Theory</span>
-      <span class="chip">Morphology</span>
-      <span class="chip">Introduction to Historical Linguistics</span>
-      <span class="chip">Introduction to Language Sound Systems</span>
-      <span class="chip">Preserving Diversity in Language and Culture (Field Methods)</span>
-      <span class="chip">Field Methods I</span>
-      <span class="chip">Data Science for Linguistics</span>
-      <span class="chip hl">Master's Dissertation: Vowel Hiatus Resolution in Setswana</span>
-    </div>
-  </div>
+<h3>M.A. Linguistics</h3>
+<div class="sch">University of Rochester</div>
+<ul>
+  <li>Introduction to Grammatical Systems</li>
+  <li>Syntactic Theory</li>
+  <li>Morphology</li>
+  <li>Introduction to Historical Linguistics</li>
+  <li>Introduction to Language Sound Systems</li>
+  <li>Introduction to Field Methods</li>
+  <li>Field Methods I</li>
+  <li>Data Science for Linguistics</li>
+  <li>Master's Dissertation</li>
+</ul>
 
-  <div class="course-card">
-    <div class="course-deg">M.A. English Language and Literature</div>
-    <div class="course-sch">Madras Christian College, University of Madras</div>
-    <div class="chips">
-      <span class="chip">The English Language (Linguistics)</span>
-      <span class="chip">Translation Studies</span>
-      <span class="chip">English Language Teaching</span>
-      <span class="chip">Critical Theory since 1965</span>
-      <span class="chip">Literary Criticism</span>
-    </div>
-  </div>
+<h3>M.A. English Language and Literature</h3>
+<div class="sch">Madras Christian College, University of Madras</div>
+<ul>
+  <li>The English Language</li>
+  <li>Translation Studies</li>
+  <li>English Language Teaching</li>
+  <li>Critical Theory since 1965</li>
+  <li>Literary Criticism</li>
+</ul>
 
-  <div class="course-card">
-    <div class="course-deg">B.A. English Language and Literature</div>
-    <div class="course-sch">Madras Christian College, University of Madras</div>
-    <div class="chips">
-      <span class="chip">Grammar and Linguistics</span>
-      <span class="chip">Prosody and Rhetoric</span>
-      <span class="chip">Postmodern Survey</span>
-      <span class="chip">German I–IV</span>
-      <span class="chip">Basic Tamil I and II</span>
-    </div>
-  </div>
+<h3>B.A. English Language and Literature</h3>
+<div class="sch">Madras Christian College, University of Madras</div>
+<ul>
+  <li>Grammar and Linguistics</li>
+  <li>Prosody and Rhetoric</li>
+  <li>Postmodern Survey</li>
+  <li>German I–IV</li>
+  <li>Basic Tamil I and II</li>
+</ul>
 
-  <div class="course-card wide">
-    <div class="course-deg">Online Courses</div>
-    <div class="course-sch">Coursera</div>
-    <div class="chips">
-      <span class="chip">Data Analysis with R Programming · Google · 2024</span>
-      <span class="chip">The Bilingual Brain · University of Houston · 2024</span>
-      <span class="chip">Big Data and Language 1 · KAIST · 2022</span>
-      <span class="chip">First Step Korean · Yonsei University · 2021</span>
-      <span class="chip">Programming for Everybody (Python) 1 & 2 · University of Michigan · 2020</span>
-      <span class="chip">An Introduction to Linguistics · Universiteit Leiden · 2020</span>
-    </div>
-  </div>
+<h3>Online Courses</h3>
+<div class="sch">Coursera</div>
+<ul>
+  <li>Data Analysis with R Programming (Google)</li>
+  <li>The Bilingual Brain (University of Houston)</li>
+  <li>Big Data and Language 1 (KAIST)</li>
+  <li>First Step Korean (Yonsei University)</li>
+  <li>Programming for Everybody: Python (University of Michigan)</li>
+  <li>An Introduction to Linguistics (Universiteit Leiden)</li>
+</ul>
 
 </div>
