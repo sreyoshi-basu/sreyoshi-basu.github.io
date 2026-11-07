@@ -5,26 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2>Publications</h2>
-<ul>
-{% for post in site.publications reversed %}
-  {% unless post.category == 'theses' %}
-  <li>
-    <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>.
-    <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}.
-  </li>
-  {% endunless %}
-{% endfor %}
-</ul>
+<style>
+  .pub { margin: 0 0 1.4em 0; }
+  .pub-title { font-size: 1.05em; font-weight: 600; text-decoration: none; }
+  .pub-title:hover { text-decoration: underline; }
+  .pub-meta { font-size: 0.85em; opacity: 0.7; margin-top: 0.2em; }
+  .pub-section { margin-top: 2em; padding-bottom: 0.3em; border-bottom: 1px solid rgba(128,128,128,0.3); }
+</style>
 
-<h2>Theses</h2>
-<ul>
-{% for post in site.publications reversed %}
-  {% if post.category == 'theses' %}
-  <li>
-    <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>.
-    <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}.
-  </li>
-  {% endif %}
+{% assign sections = "Publications,Theses" | split: "," %}
+{% for s in sections %}
+  <h2 class="pub-section">{{ s }}</h2>
+  {% for post in site.publications reversed %}
+    {% assign is_thesis = false %}
+    {% if post.category == 'theses' %}{% assign is_thesis = true %}{% endif %}
+    {% if s == 'Theses' and is_thesis == false %}{% continue %}{% endif %}
+    {% if s == 'Publications' and is_thesis %}{% continue %}{% endif %}
+    <div class="pub">
+      <a class="pub-title" href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
+      <div class="pub-meta">{{ post.venue }} · {{ post.date | date: "%Y" }}</div>
+    </div>
+  {% endfor %}
 {% endfor %}
-</ul>
