@@ -14,7 +14,7 @@ redirect_from:
   }
   .about-wrap { display: flex; gap: 2.5em; align-items: flex-start; }
   .about-main { flex: 3.2; min-width: 0; text-align: justify; hyphens: auto; }
-  .about-main ul { margin: 0.5em 0 1em 1.2em; }
+  .about-main ul { margin: 0.5em 0 1em 0; padding-left: 0.8em; }
   .about-main li { margin-bottom: 0.4em; }
   .about-side { flex: 1.4; min-width: 230px; border-left: 3px solid rgba(128,128,128,0.4); padding-left: 1.2em; }
   .about-side h3 { margin-top: 0; font-size: 1em; }
